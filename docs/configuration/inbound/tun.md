@@ -174,10 +174,6 @@ Enable endpoint-independent NAT.
 
 Performance may degrade slightly, so it is not recommended to enable on when it is not needed.
 
-#### udp_timeout
-
-UDP NAT expiration time in seconds, default is 300 (5 minutes).
-
 #### stack
 
 !!! quote "Changes in sing-box 1.8.0"
